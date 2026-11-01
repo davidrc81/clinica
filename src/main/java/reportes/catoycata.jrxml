@@ -1,0 +1,40 @@
+<!-- Created with Jaspersoft Studio version 7.0.1.final using JasperReports Library version 7.0.1-573496633c2b4074e32f433154b543003f7d2498  -->
+<jasperReport name="ReporteEnBlanco" language="java" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="a4e1c8b2-0000-0000-0000-000000000000">
+	<title height="50">
+		<element kind="staticText" uuid="e04a06f2-dec5-4ce6-afcf-69ebeeba6d83" x="0" y="0" width="555" height="20">
+			<text><![CDATA[Title Band]]></text>
+		</element>
+	</title>
+	<pageHeader height="50">
+		<element kind="staticText" uuid="78963102-da99-4d67-8fe2-8adbb26891e6" x="0" y="0" width="555" height="20">
+			<text><![CDATA[Page Header Band]]></text>
+		</element>
+	</pageHeader>
+	<columnHeader height="30">
+		<element kind="staticText" uuid="d2167da8-b6d6-4889-9078-c99fbd3d5e81" x="0" y="0" width="555" height="20">
+			<text><![CDATA[Column Header Band]]></text>
+		</element>
+	</columnHeader>
+	<detail>
+		<band height="100">
+			<element kind="staticText" uuid="0d7e598f-fc79-49d8-a52c-726a966ad0d4" x="0" y="0" width="555" height="20">
+				<text><![CDATA[Detail Band]]></text>
+			</element>
+		</band>
+	</detail>
+	<columnFooter height="30">
+		<element kind="staticText" uuid="b6a5d8d7-abfb-4a65-93ce-b88fd132aba8" x="0" y="0" width="555" height="20">
+			<text><![CDATA[Column Footer Band]]></text>
+		</element>
+	</columnFooter>
+	<pageFooter height="50">
+		<element kind="staticText" uuid="5abcb470-b6ef-41f1-838b-18ffe38cf8f2" x="0" y="0" width="555" height="20">
+			<text><![CDATA[Page Footer Band]]></text>
+		</element>
+	</pageFooter>
+	<summary height="128">
+		<element kind="staticText" uuid="2354e7eb-2369-4da5-9dab-8f8d1b288c21" x="0" y="0" width="555" height="20">
+			<text><![CDATA[Summary Band]]></text>
+		</element>
+	</summary>
+</jasperReport>
